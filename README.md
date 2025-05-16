@@ -33,7 +33,7 @@ Notes and code snippets from my studies in web development and CS fundamentals.
 
 ## 📬 Connect with me
 
-- 💼 [LinkedIn][(https://www.linkedin.com/in/susie-x-300210295/]) 
+- 💼 LinkedIn:(https://www.linkedin.com/in/susie-x-300210295/) 
 - 📧 Email: xiaoyu.x.work@gmail.com
 
 Thanks for stopping by! 😊  

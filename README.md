@@ -33,7 +33,7 @@ Notes and code snippets from my studies in web development and CS fundamentals.
 
 ## 📬 Connect with me
 
-- 📧 Email:
+📧 Email:
 - xiaoyu.x.work@gmail.com (work)
 - xiao.xiaoy@northeastern.edu(school)
 
@@ -43,4 +43,5 @@ Notes and code snippets from my studies in web development and CS fundamentals.
 <a href="https://www.instagram.com/xiao_39n116e/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
+
 Thanks for stopping by! 😊  

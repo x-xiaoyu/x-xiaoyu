@@ -8,7 +8,7 @@
 
 ## 🛠 Tech Stack
 
-- **Languages:** Java, Python, JavaScript, HTML, CSS, C
+- **Languages:** Java, Python, JavaScript, HTML/CSS
 - **Frontend:** React.js, Vue.js, Bootstrap, DOM manipulation
 - **Backend:** Node.js, Express.js, Flask, SpringBoot, RESTful APIs
 - **Database & Caching:** MongoDB, MySQL, Redis
@@ -33,7 +33,7 @@ Notes and code snippets from my studies in web development and CS fundamentals.
 
 ## 📬 Connect with me
 
-- 💼 LinkedIn:(https://www.linkedin.com/in/susie-x-300210295/) 
+- 💼 LinkedIn: https://www.linkedin.com/in/susie-x-300210295/
 - 📧 Email: xiaoyu.x.work@gmail.com
 
 Thanks for stopping by! 😊  

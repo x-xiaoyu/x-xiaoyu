@@ -33,7 +33,13 @@ Notes and code snippets from my studies in web development and CS fundamentals.
 
 ## 📬 Connect with me
 
-- 💼 LinkedIn: https://www.linkedin.com/in/susie-x-300210295/
-- 📧 Email: xiaoyu.x.work@gmail.com
+- 📧 Email: xiaoyu.x.work@gmail.com (work)
+-           xiao.xiaoy@northeastern.edu(school)
+<a href="https://www.linkedin.com/in/xiaoyu-x-300210295" target="_blank">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="30" />
+</a>
+<a href="https://www.instagram.com/xiao_39n116e/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" width="30" />
+</a>
 
 Thanks for stopping by! 😊  

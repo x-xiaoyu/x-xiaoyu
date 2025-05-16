@@ -33,13 +33,14 @@ Notes and code snippets from my studies in web development and CS fundamentals.
 
 ## 📬 Connect with me
 
-- 📧 Email: xiaoyu.x.work@gmail.com (work)
--           xiao.xiaoy@northeastern.edu(school)
+- 📧 Email:
+- xiaoyu.x.work@gmail.com (work)
+- xiao.xiaoy@northeastern.edu(school)
+
 <a href="https://www.linkedin.com/in/xiaoyu-x-300210295" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="30" />
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://www.instagram.com/xiao_39n116e/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" width="30" />
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
-
 Thanks for stopping by! 😊  

@@ -8,20 +8,12 @@
 
 ## 🛠 Tech Stack
 
-### Frontend
-- **Languages & Markup:** JavaScript, TypeScript, HTML, CSS  
-- **Frameworks & Libraries:** React, Vue 
-- **Build Tools:** Webpack  
-- **Other Tools:** Git, Microsoft Office  
+- **Languages & Markup:** JavaScript, TypeScript, HTML, CSS, Java, Python
+- **Frameworks & Tools:** React, Vue, Node.js, Express.js, Flask, Spring Boot, Webpack, Spring Task, MyBatis
+- **Technologies & Services:** RESTful APIs, WebSocket, MongoDB, MySQL, Redis, JWT, AWS, Docker, Git, Microsoft Office
 
-### Backend
-- **Languages:** Java, Python  
-- **Frameworks:** Node.js, Express.js, Flask, Spring Boot  
-- **APIs & Communication:** RESTful APIs, WebSocket  
-- **Database & Caching:** MongoDB, MySQL, Redis  
-- **Authentication & Security:** JWT  
-- **Task Scheduling & Persistence:** Spring Task, MyBatis  
-- **Cloud & DevOps:** AWS, Docker  
+- **🎓 Certification:** ![AWS Certified AI Practitioner](https://img.shields.io/badge/AWS-Certified_AI_Practitioner-FF9900?logo=amazon-aws&logoColor=white)
+
 
 ---
 

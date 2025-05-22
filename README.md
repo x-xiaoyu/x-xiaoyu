@@ -8,13 +8,20 @@
 
 ## 🛠 Tech Stack
 
-- **Languages:** Java, Python, JavaScript, HTML/CSS
-- **Frontend:** React.js, Vue.js, Bootstrap, DOM manipulation
-- **Backend:** Node.js, Express.js, Flask, SpringBoot, RESTful APIs
-- **Database & Caching:** MongoDB, MySQL, Redis
-- **Cloud & DevOps:** AWS Cloud, Docker
-- **Other Tools:** Git, JWT, WebSocket, SpringTask, MyBatis, Microsoft Office
+### Frontend
+- **Languages & Markup:** JavaScript, TypeScript, HTML, CSS  
+- **Frameworks & Libraries:** React, Vue 
+- **Build Tools:** Webpack  
+- **Other Tools:** Git, Microsoft Office  
 
+### Backend
+- **Languages:** Java, Python  
+- **Frameworks:** Node.js, Express.js, Flask, Spring Boot  
+- **APIs & Communication:** RESTful APIs, WebSocket  
+- **Database & Caching:** MongoDB, MySQL, Redis  
+- **Authentication & Security:** JWT  
+- **Task Scheduling & Persistence:** Spring Task, MyBatis  
+- **Cloud & DevOps:** AWS, Docker  
 
 ---
 

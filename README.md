@@ -1,4 +1,4 @@
-# Hi there, I'm Xiaoyu 👋
+# Hi there, I'm Susie 👋
 
 🎓 I'm a Master's student in Computer Science at Northeastern University.  
 💡 Passionate about full-stack development, system design, and practical problem-solving.  

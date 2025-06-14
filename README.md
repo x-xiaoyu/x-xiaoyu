@@ -2,7 +2,7 @@
 
 🎓 I'm a Master's student in Computer Science at Northeastern University.  
 💡 Passionate about full-stack development, system design, and practical problem-solving.  
-🚀 Currently looking for **Summer/Fall 2025 Software Engineering internships**!
+🚀 Currently looking for **Summer/Fall 2025 Software Engineering internships**
 
 ---
 

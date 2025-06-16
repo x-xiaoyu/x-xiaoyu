@@ -8,7 +8,7 @@
 
 ## 🛠 Tech Stack
 
-- **Languages & Markup:** JavaScript(ES6), TypeScript, HTML, CSS, Java, Python
+- **Languages & Markup:** JavaScript(ES6), TypeScript, HTML, CSS, Java, Python.
 - **Frameworks & Tools:** React, Vue, Node.js, Express.js, Flask, Spring Boot, Webpack, Spring Task, MyBatis
 - **Technologies & Services:** RESTful APIs, WebSocket, MongoDB, MySQL, Redis, JWT, AWS, Docker, Git, Microsoft Office
 - **Certification:** [![AWS Certified AI Practitioner](https://img.shields.io/badge/AWS-Certified_AI_Practitioner-FF9900?logo=amazon-aws&logoColor=white)](https://www.credly.com/badges/10de0a65-f63a-4cb8-8166-702052412ce8/public_url)

@@ -1,45 +1,65 @@
 # Hi there, I'm Susie 👋
 
-🎓 I'm a Master's student in Computer Science at Northeastern University.  
-💡 Passionate about full-stack development, system design, and practical problem-solving.  
-🚀 Currently looking for **Summer/Fall 2025 Software Engineering internships**
+I'm a software engineer and M.S. Computer Science student at Northeastern University, graduating in December 2026. I enjoy building reliable, accessible products across frontend, backend, and cloud systems.
+
+- 📍 Based in San Francisco, California
+- 💻 Software engineering experience at [Sentinel Security](https://www.sentinel.security/), [Second Wind Pro](https://www.secondwind.pro/), and [ReMo](https://www.remo.app/)
+- 📚 Teaching Assistant for Northeastern's CS 5800 Algorithms course
+- ☁️ AWS Certified AI Practitioner
+- 🚀 Open to 2026 software engineering opportunities
 
 ---
 
 ## 🛠 Tech Stack
 
-- **Languages & Markup:** JavaScript(ES6), TypeScript, HTML, CSS, Java, Python.
-- **Frameworks & Tools:** React, Vue, Node.js, Express.js, Flask, Spring Boot, Webpack, Spring Task, MyBatis
-- **Technologies & Services:** RESTful APIs, WebSocket, MongoDB, MySQL, Redis, JWT, AWS, Docker, Git, Microsoft Office
+- **Languages:** Python, Java, C++, JavaScript, TypeScript, SQL, HTML/CSS
+- **Frontend:** React, Next.js, Vue, Tailwind CSS
+- **Backend & APIs:** Node.js, Express.js, Spring Boot, FastAPI, REST APIs, WebSocket
+- **Systems & Data:** Kafka, Redis, PostgreSQL, MySQL, MongoDB
+- **Cloud & DevOps:** AWS, Docker, Kubernetes, Linux/Unix, Bash, CI/CD, GitHub Actions
+- **Testing & Tools:** Playwright, Jest, Git, Jira, Sanity CMS, OAuth 2.0, JWT
 - **Certification:** [![AWS Certified AI Practitioner](https://img.shields.io/badge/AWS-Certified_AI_Practitioner-FF9900?logo=amazon-aws&logoColor=white)](https://www.credly.com/badges/10de0a65-f63a-4cb8-8166-702052412ce8/public_url)
 
+---
+
+## 💼 Recent Experience
+
+### Sentinel Security — Software Engineer Intern
+
+Built production React, Next.js, and TypeScript experiences, designed Sanity CMS publishing workflows, and improved SEO, accessibility, and cross-browser reliability.
+
+### Second Wind Pro — Software Engineer Intern
+
+Developed athlete-evaluation dashboards, depth charts, and NIL financial analytics using React, Next.js, TypeScript, FastAPI, and PostgreSQL.
+
+### ReMo — Frontend Developer Intern
+
+Built responsive interfaces for a multi-tenant education platform and improved performance across application and MongoDB data workflows.
 
 ---
 
-## 📌 Pinned Projects
+## 📌 Featured Projects
 
-### [💼 Job_Project](https://github.com/x-xiaoyu/Job_Project)
-A TypeScript-based job tracking tool to help manage job applications and progress.
+### [🌐 Portfolio Website](https://github.com/x-xiaoyu/Portfolio-Website)
 
-### [🧠 Leetcode_Practice](https://github.com/x-xiaoyu/Leetcode_Practice)
-My growing collection of Python solutions for common LeetCode interview problems.
+My personal portfolio built with React, Vite, Tailwind CSS, and responsive light/dark themes.
 
-### [📚 Study](https://github.com/x-xiaoyu/Study)
-Notes and code snippets from my studies in web development and CS fundamentals.
+### [💼 Job Project](https://github.com/x-xiaoyu/Job_Project)
+
+A TypeScript-based job tracking tool for managing applications and progress.
+
+### [🧠 LeetCode Practice](https://github.com/x-xiaoyu/Leetcode_Practice)
+
+My growing collection of Python solutions for common interview problems.
 
 ---
 
-## 📬 Connect with me
+## 📬 Connect with Me
 
-📧 Email:
-- xiaoyu.x.work@gmail.com (work)
-- xiao.xiaoy@northeastern.edu(school)
+- Personal: [xiaoyu.x.work@gmail.com](mailto:xiaoyu.x.work@gmail.com)
+- Northeastern: [xiao.xiaoy@northeastern.edu](mailto:xiao.xiaoy@northeastern.edu)
 
-<a href="https://www.linkedin.com/in/xiaoyu-x-300210295" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://www.instagram.com/xiao_39n116e/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Susie_Xiao-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/susie-x/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View_Project-7C3AED?style=for-the-badge&logo=react&logoColor=white)](https://github.com/x-xiaoyu/Portfolio-Website)
 
-Thanks for stopping by! 😊  
+Thanks for stopping by! 😊

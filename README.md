@@ -1,12 +1,12 @@
 # Hi there, I'm Susie 👋
 
-I'm a software engineer and M.S. Computer Science student at Northeastern University, graduating in December 2026. I enjoy building reliable, accessible products across frontend, backend, and cloud systems.
+I'm a software engineer and M.S. Computer Science student at Northeastern University. I enjoy building reliable, accessible products across frontend, backend, and cloud systems.
 
 - 📍 Based in San Francisco, California
 - 💻 Software engineering experience at [Sentinel Security](https://www.sentinel.security/), [Second Wind Pro](https://www.secondwind.pro/), and [ReMo](https://www.remo.app/)
 - 📚 Teaching Assistant for Northeastern's CS 5800 Algorithms course
 - ☁️ AWS Certified AI Practitioner
-- 🚀 Open to 2026 software engineering opportunities
+- 🚀 Open to 2026/2027 software engineering opportunities
 
 ---
 
